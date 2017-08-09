@@ -24,7 +24,7 @@ and corporations. A landing page could be a single webspace.
 Languages
 ---------
 
-Once you created your webpsaces, you could define languages. Pages could
+Once you created your webspaces, you could define languages. Pages could
 then be translated or mapped to another language as **shadow-** or
 **ghost-pages**.
 
